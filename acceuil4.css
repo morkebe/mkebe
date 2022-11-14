@@ -1,0 +1,65 @@
+html{
+    font-size: 45.5%;
+}
+h1{
+    font-size: 3rem;
+}
+li{
+    font-size: 2rem;
+}
+.lo{
+    background: rgb(207, 136, 60);
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+nav{
+    min-height: 10vh;
+    display: flex;
+    padding: 1rem;
+}
+nav form{
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+#lol{
+    flex: 4 1 40rem;
+    align-items: center;
+}
+.kk{
+    position: relative;
+    margin: 0 auto;
+}
+.kk img{
+    width: 100%;
+}
+.mm{
+    color: red;
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 6rem;
+    text-shadow: 5px 5px 10px #000000;
+}
+.mmm{
+    color: rgb(30, 20, 222);
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 5rem;
+    text-shadow: 5px 5px 10px #000000;
+}
+th{
+    text-align: center;
+    font-size: 2;  
+}
